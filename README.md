@@ -1,5 +1,5 @@
 <a href="https://www.gotoiot.com/">
-    <img src="doc/gotoiot-logo.png" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
+    <img src="mobile.png" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
 </a>
 
 Smart Home Web App
