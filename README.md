@@ -1,11 +1,19 @@
 <a href="https://www.gotoiot.com/">
-    <img src="LucianoSmith/mobile.png" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
+    <img src="doc/mobile.png" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
 </a>
-<img src="standard.png" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
+<img src="doc/standard.png" alt="logo" title="Goto IoT" align="right" width="60" height="60" />
+
 Smart Home Web App
 ==================
 
 *Ayudaría mucho si apoyaras este proyecto con una ⭐ en Github!*
+
+Este repositorio contiene una aplicación web fullstack (frontend y backend) que emula un sistema de control para dispositivos IoT hogareños. La misma funciona sobre un ecosistema `Docker`.
+
+
+
+
+
 
 Este proyecto es una aplicación web fullstack que se ejecuta sobre el ecosistema `Docker`. Está compuesta por un compilador de `TypeScript` que te permite utilizar este superset de JavaScript para poder programar un `cliente web`. También tiene un servicio en `NodeJS` que te permite ejecutar código en backend y al mismo tiempo disponibilizar el código del cliente web para interactar con el servicio. Además tiene una `base de datos` MySQL que puede interactuar con el backend para guardar y consultar datos, y de manera adicional trae un `administrador` de base de datos para poder administrar la base en caso que lo necesites.
 
